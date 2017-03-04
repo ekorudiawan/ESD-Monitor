@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Buzzer-Circuit.PrjPcb]
+   Generated File[Bottom-PCB.TXT]
+   Generated File[Bottom-PCB.LDP]
+   Generated File[Bottom-PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:19:29 PM On 2/26/2017
